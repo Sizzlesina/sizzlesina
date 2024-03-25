@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm an coffee addict ☕**
 
-- 📁 More about my developement experience <a href="https://roadmap.sh/frontend?s=65f6b8af275ac16edcc26b5d">roadmap.sh</a>
+- 📁 More about my developement experience **<a href="https://roadmap.sh/frontend?s=65f6b8af275ac16edcc26b5d">roadmap.sh</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
