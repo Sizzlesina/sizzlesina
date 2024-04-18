@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently finished learning **Next JS**
-- 
+  
 - 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind CSS,Javascript,React, MUI and more...**
 
 - 📫 How to reach me **sizzlesina@gmail.com**
