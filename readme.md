@@ -2,10 +2,8 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 
-
-- 🌱 I’m currently learning **Next JS**
   
-- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind CSS,Javascript,React, MUI, NextJS and more...**
+- 💬 Ask me about **Front-End Developing**
 
 - 📫 How to reach me **sizzlesina@gmail.com**
 
